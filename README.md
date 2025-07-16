@@ -1,4 +1,4 @@
-# Hi there! � I'm Ashutosh Singh
+# Hi there! 👋 I'm Ashutosh Singh
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineering+Student;Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
