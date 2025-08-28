@@ -71,12 +71,6 @@ I'm a passionate **BTech student** at **LNCT University** specializing in **Arti
   <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-singh-03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4&row=2"/>
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-singh-03&theme=tokyo-night&hide_border=true&custom_title=Ashutosh's%20Contribution%20Graph"/>
-</div>
-
 ---
 
 <div align="center">
