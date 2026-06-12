@@ -1,42 +1,30 @@
-
-
-
-
-<div align="center">
-
 # Ashutosh Singh
 
-**AI/ML Engineering Student | Data Science Enthusiast**  
-_Turning ideas into code. Exploring AI, ML, and Data Science._
+AI/ML Engineering Student · Data Science Enthusiast
+
+I build at the intersection of machine learning and real-world problems — writing clean code, exploring new research, and turning data into decisions.
 
 ---
 
-## 🚀 About Me
+### About
 
-Passionate about Artificial Intelligence, Machine Learning, and Data Science.  
-Always learning, building, and sharing knowledge.
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/ashutosh-singh-19303020b) | [Email](mailto:ashutosh5607singh@gmail.com) | [GitHub](https://github.com/ashutosh-singh-03)
+Currently pursuing AI/ML engineering with a focus on applied machine learning and data science. I enjoy taking ideas from concept to working implementation, and I'm always exploring what's next in the AI space.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/ML-00C853?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/DL-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Languages**
+Python · Java · C
+
+**Data & ML**
+NumPy · Pandas · Machine Learning · Deep Learning
+
+**Databases**
+MySQL
 
 ---
 
-**Thanks for visiting! 🚀**
+### Connect
 
-</div>
+[LinkedIn](https://linkedin.com/in/ashutosh-singh-19303020b) · [GitHub](https://github.com/ashutosh-singh-03) · [Email](mailto:ashutosh5607singh@gmail.com)
