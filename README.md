@@ -15,7 +15,7 @@ Currently pursuing AI/ML engineering with a focus on applied machine learning an
 ### Tech Stack
 
 **Languages**
-Python · Java · C
+Python · Java
 
 **Data & ML**
 NumPy · Pandas · Machine Learning · Deep Learning
